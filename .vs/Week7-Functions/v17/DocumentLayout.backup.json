@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A170C4-7C49-4554-9822-347B9385F2C1}|DiscountCalculator\\DiscountCalculator.csproj|c:\\users\\jekaterina\\source\\repos\\week7-functions\\discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A170C4-7C49-4554-9822-347B9385F2C1}|DiscountCalculator\\DiscountCalculator.csproj|solutionrelative:discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50975A60-7F8E-4972-AFC1-3AA7FC13E4E3}|Calculator\\Calculator.csproj|c:\\users\\jekaterina\\source\\repos\\week7-functions\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50975A60-7F8E-4972-AFC1-3AA7FC13E4E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD691CD4-B7F2-4408-ADD8-4D53CCB543ED}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|c:\\users\\jekaterina\\source\\repos\\week7-functions\\argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD691CD4-B7F2-4408-ADD8-4D53CCB543ED}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|solutionrelative:argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F584097F-1DF7-475C-B344-027A204DEE02}|Week7-Functions\\Week7-Functions.csproj|c:\\users\\jekaterina\\source\\repos\\week7-functions\\week7-functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F584097F-1DF7-475C-B344-027A204DEE02}|Week7-Functions\\Week7-Functions.csproj|solutionrelative:week7-functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\DiscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\DiscountCalculator\\Program.cs",
+              "RelativeToolTip": "DiscountCalculator\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:30:17.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:18:44.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeToolTip": "ArgumentsAndParameters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:14:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\Week7-Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Week7-Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week7-Functions\\Week7-Functions\\Program.cs",
+              "RelativeToolTip": "Week7-Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:03:08.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
